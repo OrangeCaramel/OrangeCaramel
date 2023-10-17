@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/caramelorange"><img src="https://github.com/OrangeCaramel/OrangeCaramel/blob/main/devcard.svg" width="300" alt="Marc Generalao's Dev Card"/></a>
+
+Exercism Public Profile: https://exercism.org/profiles/OrangeCaramel
