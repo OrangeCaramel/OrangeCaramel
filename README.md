@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <p><a href="https://app.daily.dev/caramelorange"><img src="https://github.com/OrangeCaramel/OrangeCaramel/blob/main/devcard.svg" width="300" alt="Marc Generalao's Dev Card"/></a></p>
 
+<h3 align="left">Profiles</h3>
 <p><a href="https://exercism.org/profiles/OrangeCaramel"/>Exercism</a></p>
+<p><a href="https://www.hackerrank.com/profile/generalao_mar)"/>HackerRank</a></p>
 <p><a href="https://leetcode.com/orangecaramel/"/>LeetCode</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
