@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Profiles</h3>
 <p><a href="https://exercism.org/profiles/OrangeCaramel"/>Exercism</a></p>
-<p><a href="https://www.hackerrank.com/profile/generalao_mar)"/>HackerRank</a></p>
+<p><a href="https://www.hackerrank.com/profile/generalao_marc"/>HackerRank</a></p>
 <p><a href="https://leetcode.com/orangecaramel/"/>LeetCode</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
