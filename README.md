@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><a href="https://app.daily.dev/caramelorange"><img src="https://api.daily.dev/devcards/v2/J6WzyDYpYj5XQJTWHvMrr.png?type=wide&r=54n" width="652" alt="Marc Generalao's Dev Card"/></a></p>
+<a href="https://app.daily.dev/caramelorange"><img src="https://api.daily.dev/devcards/v2/J6WzyDYpYj5XQJTWHvMrr.png?type=default&r=43e" width="356" alt="Marc Generalao's Dev Card"/></a>
 
 <h3 align="left">Profiles</h3>
 <p><a href="https://exercism.org/profiles/OrangeCaramel"/>Exercism</a></p>
